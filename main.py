@@ -1,5 +1,6 @@
 import random
 
+
 def main() -> None:
     print("\n\tGuess the number between 0 to 100 . You have 7 chances.\n\tGood Luck!.")
     NUMBER = int(random.randint(0,100))
